@@ -1,2 +1,4 @@
 *.maf
 *.ipynb
+.vscode/
+__pycache__/
